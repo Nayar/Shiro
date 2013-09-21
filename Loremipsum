@@ -1,0 +1,41 @@
+<! DOCTYPE html>
+<head>
+	<title>  </title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome-1"/>
+	<meta name = "title" 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+	<link rel = "stylesheet" href = "assets/css/main.css" type = "text/css"/>
+	<link href='http://fonts.googleapis.com/css?family=Lato:100|Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+</head>
+
+
+	<body>
+		<div class = "top">
+		<div class = "container">
+			<div class = "tilikum">
+				<div class = "nav">
+					<ul>
+						<li> <a href = "http://echdee.me/shiro"> Home </a> </li>
+						<li> <a href = "http://echdee.me/shiro/about.html"> About </a> </li>
+						<li> <a href= "http://echdee.me/shiro/articles.html"> Articles </a> </li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class = "orkid">
+		<div class = "container">
+				<div class = "recent">
+						<div class = "blog">
+							<h6 id = "date"> 21 September 2013</h6>
+							<h1> <a href = "#"> Lorem Ipsum </a> </h1>
+							<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+							Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</body>
+		</html>
