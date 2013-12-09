@@ -181,4 +181,5 @@ hr {
 
   .content h2, .recent h2, .content h3, .recent h3, .content h6, .recent h6, .content p, .recent p {
     padding-right: 10px;
-    padding-left: 10px; } }
+    padding-left: 10px; 
+	text-align:justify; } }
